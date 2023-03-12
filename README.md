@@ -6,20 +6,20 @@
 
 ## How to Play
 
-    - Run the code.
-    - Select the desired mode of play by entering the corresponding option number.
-    - Follow the instructions given for each mode of play.
-    - After each game, you can choose to play again, switch modes, or quit the game altogether.
+- Run the code.
+- Select the desired mode of play by entering the corresponding option number.
+- Follow the instructions given for each mode of play.
+- After each game, you can choose to play again, switch modes, or quit the game altogether.
 
 ### Options
 
 There are three options in the game:
 
-    - Human guesses the number - In this mode, the player has to guess the number chosen by the computer, with clues on whether each guess by the player is too high or too low. The player has a maximum of 5 guesses to guess the number.
+- Human guesses the number - In this mode, the player has to guess the number chosen by the computer, with clues on whether each guess by the player is too high or too low. The player has a maximum of 5 guesses to guess the number.
 
-    - Computer guesses the number - In this mode, the computer tries to guess the number on the mind of the player, where the player is asked to confirm if the number is too high, too low, or accurate, serving as clues for the computer to be able to tell if its guess is correct or not. The player has 5 seconds to respond.
+- Computer guesses the number - In this mode, the computer tries to guess the number on the mind of the player, where the player is asked to confirm if the number is too high, too low, or accurate, serving as clues for the computer to be able to tell if its guess is correct or not. The player has 5 seconds to respond.
 
-    - Quit - This option allows the player to exit the game.
+- Quit - This option allows the player to exit the game.
 
 ## Note
 
